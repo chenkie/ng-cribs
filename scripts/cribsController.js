@@ -1,6 +1,6 @@
 angular
   .module('cribsApp')
-  .controller('cribsController', function($scope, cribsFactory) {
+  .controller('cribsController', function($http, $scope, cribsFactory) {
 
     $scope.cribs;
 

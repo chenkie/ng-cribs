@@ -1,0 +1,24 @@
+{
+  "name": "ng-cribs",
+  "version": "1.0.0",
+  "description": "Code for tutorial at ryanchenkie.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenkie/ng-cribs.git"
+  },
+  "author": "Ryan Chenkie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenkie/ng-cribs/issues"
+  },
+  "homepage": "https://github.com/chenkie/ng-cribs#readme",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "bootstrap": "~3.3",
+    "angular-ui-bootstrap": "~0.14"
+  }
+}
